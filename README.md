@@ -1,4 +1,4 @@
-# Java Sudoku Game Engine 🧩
+# Java Sudoku Game Engine
 
 ## Project Overview
 This project was developed for the Introduction to Programming course at ISCTE-IUL (2023/24)[cite: 1]. The objective was to build a complete Sudoku game engine in Java, focusing on logic validation, matrix manipulation, visual rendering, and file I/O[cite: 1]. The project runs within the PandionJ environment, utilizing custom classes for image generation[cite: 1].
